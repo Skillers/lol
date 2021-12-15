@@ -11,7 +11,9 @@
         "assets.json",
         "images.g.jres",
         "images.g.ts",
-        "custom.ts"
+        "custom.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
